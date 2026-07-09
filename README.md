@@ -1,2 +1,2 @@
 # Student_Data
-MySQL practical programs covering CREATE, INSERT, SELECT, UPDATE, DELETE, ALTER, GROUP BY, HAVING, ORDER BY, and other SQL queries using a Student Data table.
+MySQL practice repository featuring Student Data Management with SQL queries covering database creation, table creation, data insertion, retrieval, filtering, sorting, updating, deletion, aggregate functions, grouping,in,like table modification, and database management operations.
